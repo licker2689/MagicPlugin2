@@ -1,0 +1,4 @@
+name: MagicPlugin
+version: '${version}'
+main: yejunho10.magicplugin.MagicPlugin
+api-version: 1.18
